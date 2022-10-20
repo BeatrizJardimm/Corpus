@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1NhtdNEftIb0G5vBTDD5Zlj-TzQqpkFCV
 """
 
+## Paula Beatriz Louback Jardim
+
 #!python -m spacy download en_core_web_sm
 
 from bs4 import BeautifulSoup
